@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "645699989246",
+    "project_id": "todolist-dart",
+    "storage_bucket": "todolist-dart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645699989246:android:e5529af434666a8eb93faf",
+        "android_client_info": {
+          "package_name": "com.example.todolist_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbD7kAoS900nBygQnio5rH2BlVFnGePZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
